@@ -15,3 +15,17 @@ This file can only:
 
 It cannot change the news sources, links, feedback address, release date or anything else.
 Keep `"version": 1`. Size limit 512 KB. Facts only from official sources; no leaks.
+
+## Added in app 0.6.0
+
+- `challenges`: **replace** the weekly challenge pool (at least 3): `{"id": "visit20", "title": "Visit 20 new landmarks", "type": "visit", "target": 20}`.
+  Types: visit, visitNature, visitCity, daily, quiz, perfect, pins, bingoLine, collect, garage. Each week the app picks 3 and keeps them for that week.
+- `bingo`: **replace** the weekly bingo squares (at least 16, max 60 characters each). Every Monday the app deals a new 16-square card from this list.
+- `collectibles`: sets shown as a map layer with a 100% checklist:
+  `{"id": "set-id", "name": "Set name", "items": [{"id": "item-id", "name": "Item name", "world": [x, y], "note": "where exactly"}]}`.
+  `world` uses the same coordinates as GTADB landmarks; leave it out if the position is unknown. Ids: lowercase letters, digits, dashes.
+- `garage`: vehicle categories for the garage checklist:
+  `{"id": "sports", "name": "Sports cars", "items": [{"id": "vehicle-id", "name": "Vehicle name", "note": "optional"}]}`.
+
+Do not rename ids after release: players' ticks are stored under `set-id:item-id`.
+Only add collectibles and vehicles that are actually documented (with a source); never guess positions.
