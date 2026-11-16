@@ -1,7 +1,115 @@
 {
   "version": 1,
   "updatedAt": "2026-11-16",
-  "quiz": [],
+  "quiz": [
+    [
+      "Which record label is Rockstar partnering with for GTA VI: The Album?",
+      [
+        "Atlantic Records",
+        "Def Jam",
+        "Interscope",
+        "Columbia"
+      ],
+      0
+    ],
+    [
+      "When does GTA VI: The Album launch?",
+      [
+        "November 19, alongside the game",
+        "A month before the game",
+        "On launch day plus one week",
+        "Only on vinyl in 2027"
+      ],
+      0
+    ],
+    [
+      "The extended look at GTA VI was captured entirely in-game on which console?",
+      [
+        "PlayStation 5",
+        "Xbox Series X",
+        "PC",
+        "Nintendo Switch 2"
+      ],
+      0
+    ],
+    [
+      "On which date did GTA VI pre-loading begin?",
+      [
+        "November 10",
+        "November 1",
+        "November 17",
+        "November 19"
+      ],
+      0
+    ],
+    [
+      "The launch trailer puts Jason and Lucia on “the darkest side” of what?",
+      [
+        "The sunniest place in America",
+        "The Big Apple",
+        "The Wild West",
+        "The Windy City"
+      ],
+      0
+    ]
+  ],
   "locations": [],
-  "news": []
+  "news": [
+    {
+      "title": "Pre-Load Grand Theft Auto VI Now",
+      "date": "2026-11-10",
+      "category": "Launch",
+      "url": "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+      "summary": "Pre-loading is open for everyone who pre-ordered digitally. Code-in-box buyers can activate their code and pre-load as soon as it arrives."
+    },
+    {
+      "title": "Explore the Grand Theft Auto VI Launch Gallery",
+      "date": "",
+      "category": "Screenshots",
+      "url": "https://www.rockstargames.com/newswire/article/39ak81277255o9/explore-the-grand-theft-auto-vi-launch-gallery",
+      "summary": "Two weeks before launch, Rockstar published a new collection of screenshots of Vice City and beyond on the official site."
+    },
+    {
+      "title": "Announcing Grand Theft Auto VI: The Album, Coming November 19",
+      "date": "",
+      "category": "Music",
+      "url": "https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19",
+      "summary": "The official soundtrack album, made with Atlantic Records, launches alongside the game on November 19 and can be pre-saved on major streaming services."
+    },
+    {
+      "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
+      "date": "",
+      "category": "Video",
+      "url": "https://www.rockstargames.com/newswire/article/4k138k8okkk483/grand-theft-auto-vi-an-extended-look-now-playing",
+      "summary": "An extended look captured entirely from in-game footage on PlayStation 5."
+    },
+    {
+      "title": "Watch the Grand Theft Auto VI Launch Trailer",
+      "date": "",
+      "category": "Trailer",
+      "url": "https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer",
+      "summary": "When an easy score goes wrong, Jason and Lucia end up on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy."
+    },
+    {
+      "title": "Grand Theft Auto VI Pre-Load Begins on November 10",
+      "date": "",
+      "category": "Launch",
+      "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+      "summary": "Pre-loading on PlayStation 5 and Xbox Series X|S starts November 10, ahead of the November 19 launch."
+    },
+    {
+      "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
+      "date": "2025-11-06",
+      "category": "Release",
+      "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
+      "summary": "Rockstar sets the release for November 19, 2026, saying the extra time will help finish the game to its intended level of polish."
+    },
+    {
+      "title": "Grand Theft Auto VI — Watch Trailer 2 Now",
+      "date": "2025-05-06",
+      "category": "Trailer",
+      "url": "https://www.rockstargames.com/newswire/article/3928aaa9471o3a/grand-theft-auto-vi-watch-trailer-2-now",
+      "summary": "Trailer 2 introduces Jason and Lucia's story: a failed score pulls them into a criminal conspiracy across Leonida."
+    }
+  ]
 }
